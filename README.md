@@ -2,13 +2,13 @@
 
 > Turning it on was free. Turning it off is a premium experience.
 
-A satirical parody of dark-pattern subscription apps, built as a joke. It's a flashlight app where the **On** button works instantly and for free — but the **Off** button is locked behind a fake **$499 paywall**.
+A satirical parody of dark pattern subscription apps, built as a joke. It's a flashlight app where the **On** button works instantly and for free but the **Off** button is locked behind a fake **$499 paywall**.
 
 Inspired by real flashlight apps that lock basic features behind paywalls. This is pure comedy, not a real product.
 
 ## 🔗 Live Demo
 
-[your-live-link-here]
+
 
 ## Features
 
