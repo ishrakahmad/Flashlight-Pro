@@ -8,6 +8,8 @@ Inspired by real flashlight apps that lock basic features behind paywalls. This 
 
 ## 🔗 Live Demo
 
+https://github.com/ishrakahmad/Flashlight-Pro
+
 
 ## Screenshots
 
