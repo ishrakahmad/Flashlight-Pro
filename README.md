@@ -11,10 +11,12 @@ Inspired by real flashlight apps that lock basic features behind paywalls. This 
 
 ## Screenshots
 
+Screenshots
+
 <p align="center">
-  <img src="screenshots/main.png" width="250" />
-  <img src="screenshots/paywall.png" width="250" />
-  <img src="screenshots/cardform.png" width="250" />
+  <img src="Screenshots/main.png" width="250" />
+  <img src="Screenshots/paywall.png" width="250" />
+  <img src="Screenshots/cardform.png" width="250" />
 </p>
 
 ## Features
